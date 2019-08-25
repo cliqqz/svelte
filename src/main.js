@@ -1,4 +1,4 @@
-// src/index.js
+// src/main.js
 import App from 'App';
 
 const app = new App({
